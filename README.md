@@ -10,7 +10,6 @@ This project simulates a **Real-Time Payment Failover Monitoring System** using:
 * Python
 * Windowed Analytics
 * Failover Simulation
-* Logging & Metrics
 * Interactive Visualization using Plotly 
 
 The system generates streaming payment data, detects gateway failures, calculates failure rates, automatically simulates failover, logs events, and visualizes performance.
