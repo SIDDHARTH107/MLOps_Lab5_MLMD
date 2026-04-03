@@ -169,7 +169,7 @@ numpy
 
 # Pipeline Workflow
 
-## Step 1 — Generate Streaming Payments
+## Step 1: Generate Streaming Payments
 
 Simulates:
 
@@ -188,7 +188,7 @@ Status: Failed
 
 ---
 
-## Step 2 — Detect Failures
+## Step 2: Detect Failures
 
 Pipeline identifies failed payments:
 
@@ -198,7 +198,7 @@ Payment Failure Detected
 
 ---
 
-## Step 3 — Windowed Failure Rate
+## Step 3: Windowed Failure Rate
 
 1-minute window:
 
@@ -209,7 +209,7 @@ PayPal → Failure Rate: 0.12
 
 ---
 
-## Step 4 — Automatic Failover
+## Step 4: Automatic Failover
 
 When threshold exceeded:
 
@@ -226,7 +226,7 @@ PaymentID=2345 Gateway=Stripe Status=Failed
 
 ---
 
-## Step 6 — Visualization
+## Step 6: Visualization
 
 Interactive Plotly Dashboard:
 
