@@ -236,10 +236,6 @@ Interactive Plotly Dashboard:
 
 <img width="1390" height="631" alt="image" src="https://github.com/user-attachments/assets/20fd6e84-68d4-47d0-b905-9d8e36b0ec9d" />
 
-<img width="1410" height="633" alt="image" src="https://github.com/user-attachments/assets/f15075d8-6cc6-4849-bdd5-59960ad70561" />
-
-<img width="1427" height="642" alt="image" src="https://github.com/user-attachments/assets/0ea3eb20-f1e4-48ff-a603-c3a339fcdc7b" />
-
 ---
 
 # Example Output
