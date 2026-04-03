@@ -234,6 +234,10 @@ Interactive Plotly Dashboard:
 * Real-time monitoring
 * Hover analytics
 
+<video width="700" controls>
+  <source src="data_generator.ipynb - Lab5_MLOps_ApacheBeam - Cursor 2026-04-02 17-24-26.mp4" type="video/mp4">
+</video>
+
 ---
 
 # Example Output
