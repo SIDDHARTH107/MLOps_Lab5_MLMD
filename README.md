@@ -235,7 +235,7 @@ Interactive Plotly Dashboard:
 * Hover analytics
 
 <video width="700" controls>
-  <source src="data_generator.ipynb - Lab5_MLOps_ApacheBeam - Cursor 2026-04-02 17-24-26.mp4" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/2e841328-e29d-4828-9c88-815f735cc240/data_generator.ipynb - Lab5_MLOps_ApacheBeam - Cursor 2026-04-02 17-24-26.mp4" type="video/mp4">
 </video>
 
 ---
