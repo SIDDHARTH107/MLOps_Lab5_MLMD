@@ -263,8 +263,6 @@ This architecture is used in:
 
 # Author
 
-Siddharth Mohapatra
-Northeastern University
-M.S. Data Analytics Engineering
+Siddharth Mohapatra | Northeastern University | M.S. Data Analytics Engineering
 
 ---
