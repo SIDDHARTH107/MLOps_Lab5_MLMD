@@ -110,8 +110,6 @@ MLOps_Lab5_MLMD/
 │
 ├── requirements.txt
 │
-├── payment_logs.txt
-│
 └── README.md
 ```
 
